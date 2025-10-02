@@ -1,0 +1,41 @@
+Text Translation Script v3.1
+
+
+
+*** >>> Installation guide <<< ***
+1- Customize the logo from logo/logo.psd file.
+2- Open index.php and change adsense ID to your ID.
+3- Upload files to your hosting via FTP or cpanel file manager.
+
+
+
+*** >>> Changelog <<< ***
+V 3.1 (17 Nov 2009)
+Fixed translation bug.
+
+
+V 3.00 (20 Oct 2009)
+Added language auto detection for source language.
+Added support for 10 extra languages to make it 51 in total.
+
+
+V 2.00 (5 May 2009)
+Added dictionary function.
+Optimized code to work much faster.
+Fixed javascript compatability issue with Internet explorer 7 (IE sucks!)
+
+V 1.00 (11 Feb 2009)
+
+Front-end features.
+
+Nice web 2.0 design.
+Uses nice ajax effects.
+High CTR ad placements.
+Translation possible between 41 languages both ways.
+
+Back-end (Admin)
+
+Script doesn't need admin panel.
+
+
+

@@ -1,0 +1,14 @@
+RewriteEngine On
+ 
+ErrorDocument 404 http://localhost/url-amigavel-por-luiz-azevedo/Erros/404.html
+ 
+RewriteRule ^pt/ck$  ../portuitese-camks.php
+RewriteRule ^contato$ telefone.html
+ 
+RewriteRule ^categoria/infantil/brinquedo$ infantil.html
+RewriteRule ^a-empresa$ telefone.html
+ 
+#RewriteRule ^niver/([0-9]+)/([0-9]+)/([0-9]+)$ data.php?dia=$1&mes=$2&ano=3
+RewriteRule ^niver/([0-9]+)/([0-9]+)/([0-9]+)$ data.php?dia=$3-$2-$1
+ 
+RewriteRule ^buscar/(.+)$  procurar.php?palavra=$1

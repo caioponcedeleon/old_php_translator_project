@@ -1,0 +1,8 @@
+RewriteEngine On
+
+RewriteRule ^fulher/404$  fulher-404.php
+
+ErrorDocument 404 http://localhost/trazubbettor/fulher/404
+
+RewriteRule ^pt/ck$  portuitese-camks.php
+RewriteRule ^ck/pt$  camks-portuitese.php
