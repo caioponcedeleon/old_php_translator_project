@@ -1,4 +1,4 @@
-<?
+<?php
 include('conectar.php');
 include('restt.php');
 ?>

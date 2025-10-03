@@ -1,4 +1,4 @@
-<?
+<?php
 $db = new MysqlMQ(); 
 $db-> setSrv("localhost"); 
 $db-> setUsr("root");     
