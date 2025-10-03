@@ -67,6 +67,62 @@ If you’re browsing my GitHub, check out my more recent projects for examples o
 This one is just a nostalgic stop along the way 🚀
 
 ---
+## 📸 Screenshots
+
+Here are some screenshots of the project interface from 2013:
+
+<table>
+  <tr>
+    <td align="center" valign="top">
+      <img src="screenshots/index_page.jpeg" width="90%">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub><b>Index Page</b><br>The main landing page where users could input Portuguese text and see it translated. The user can also change the translation direction, translating from my language to Portuguese. (The note with a list of trial sentences was added recently).</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/admin_page.jpeg" width="90%">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/add_words.jpeg" width="90%">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub><b>Admin Page</b><br>The simple admin interface for managing the dictionary and reviewing entries. The admin can either add new words to the database (left), or check the words that have already been added and edit them (right).</sub>
+    </td>
+    <td valign="top">
+      <sub><b>Adding more words</b><br>This page features a straightforward form for adding new words to the database. Admins input each word in both Camks (the invented language) and Portuguese. The form has two rows so that singular and plural forms of a word can be added at the same time.</sub>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/registered_words.jpeg" width="90%">
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img src="screenshots/edit_words.jpeg" width="90%">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <sub><b>List of Registered Words</b><br>This page shows all words currently stored in the database and provides options to edit them. A progress bar visualises the database's growth, increasing by 1% for every 100 words added.</sub>
+    </td>
+    <td valign="top">
+      <sub><b>Editing words</b><br>A simple page brings a form to edit each entry.</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🕹️ Running it (for fun)
 
