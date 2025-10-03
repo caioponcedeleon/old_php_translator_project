@@ -126,6 +126,8 @@ Here are some screenshots of the project interface from 2013:
 
 ## 🕹️ Running it (for fun)
 
+A live version of this project is available online for testing: [Try it here](https://oldprojects.camk.net/trazubbettor_2013)
+
 Since this was built in 2013, I had to update some aspects of the code in order for it to run with modern PHP versions (as the one ran by my localhost and my server). Setup is very simple:
 
 1. Install PHP (any version that supports mysqli).  
